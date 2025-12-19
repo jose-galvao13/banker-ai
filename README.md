@@ -16,6 +16,3 @@ Built to bridge the gap between **Traditional Banking Policies** and **Data Scie
 * **Data Processing:** Pandas, NumPy
 * **Frontend/UI:** Streamlit (Reactive State Management)
 * **Dataset:** German Credit Data (UCI Machine Learning Repository)
-
----
-*Developed by a Management & Finance student at ISCAC - Coimbra Business School.*
